@@ -14,6 +14,6 @@ $ bash make_layer_zip.sh インストールしたいライブラリ名(例.slack
 * 作成されるディレクトリツリー(slackclientをコマンドライン引数に指定した場合)
 
 ```
-hoge-slackclient-python-ライブラリに必要な、たくさんのファイル達
-                        ㄴslackclient.zip #layerにアップロードするようzipファイル
+hoge-make_layer_zip.sh
+    ㄴslackclient.zip #layerにアップロードするzipファイル
 ```
